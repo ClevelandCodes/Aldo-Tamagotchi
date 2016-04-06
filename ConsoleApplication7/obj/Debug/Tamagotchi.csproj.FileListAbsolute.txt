@@ -1,0 +1,9 @@
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\Tamagotchi.csprojResolveAssemblyReference.cache
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+c:\users\aldo\documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\Aldo\Documents\Visual Studio 2015\Projects\Tamagotchi\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\Aldo\Documents\Visual Studio 2015\Projects\Tamagotchi\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\Aldo\Documents\Visual Studio 2015\Projects\Tamagotchi\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
